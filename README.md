@@ -5,4 +5,5 @@ Task-1 :Resume Generator using Html,CSS and JavaScript
 
 Task-2 : Music Player using Html,CSS and JavaScript
 
-![Web capture_9-12-2023_12588_127 0 0 1](https://github.com/chinmayeechoudhury/Coding-Raja-Technologies-Internship/assets/151606750/0113ce1e-b76c-46aa-a669-44514adce7e0)
+
+![Web capture_9-12-2023_12588_127 0 0 1](https://github.com/chinmayeechoudhury/Coding-Raja-Technologies-Internship/assets/151606750/941c3ca8-2922-4b4a-97d0-fdaef86e3a76)
